@@ -1,0 +1,31 @@
+{
+  "name": "NTS Favorites",
+  "description": "Save your favorite NTS shows",
+  "version": null,
+  "manifest_version": 2,
+  "permissions": [
+    "storage",
+    "tabs",
+    "webNavigation",
+    "activeTab",
+    "downloads",
+    "https://*.nts.live/*"
+  ],
+  "icons": {
+    "48": "icons/nts-favorites-icon-white@48.png",
+    "128": "icons/nts-favorites-icon-white@128.png",
+    "256": "icons/nts-favorites-icon-white@256.png"
+  },
+  "options_ui": {
+    "page": "options/options.html",
+    "chrome_style": true
+  },
+  "browser_action": {
+    "title": "NTS Favorites"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  }
+}

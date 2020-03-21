@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NTS Favorites</title>
+    <link rel="stylesheet" href="favorites.css">
+    <% if (NODE_ENV === 'development') { %>
+    <!-- Load some resources only in development environment -->
+    <% } %>
+</head>
+<style>
+    html, body {
+        background: #000;
+        color: #fff;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        user-select: none;
+    }
+</style>
+<body>
+<div id="app"></div>
+<footer class="container" style="font-size:0.9rem;text-align:center;margin-top:4rem;margin-bottom:4rem">
+    <div class="row">
+        <div class="col-12" style="margin:1em">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" height="48">
+                <g fill="none" fill-rule="evenodd">
+                    <path fill="#000" d="M0 0h128v128H0z"/>
+                    <path fill="#FFF" fill-rule="nonzero" d="M64.5 124l-2.1-2.02C17.25 79.556 5 64.606 5 40.364 5 20.162 19 4 36.5 4c14.35 0 22.4 9.293 28 16.566C70.1 13.293 78.15 4 92.5 4 110 4 124 20.162 124 40.364c0 24.242-12.25 39.192-57.4 81.616L64.5 124z"/>
+                    <path fill="#000" fill-rule="nonzero" d="M99.502 34.228l-1.532 7.259h-5.742l1.914-6.913c.383-2.074.383-3.802-2.297-3.802s-3.828 1.728-4.211 3.802l-1.531 5.876a11.846 11.846 0 0 0 0 5.184l5.36 14.172c.765 2.073 1.148 4.493.382 6.912l-2.297 8.987C88.017 80.889 83.806 84 78.446 84c-6.125 0-8.805-2.42-7.274-8.295l1.914-7.604h5.743l-1.914 7.258c-.766 2.765 0 4.148 2.68 4.148 2.296 0 3.828-1.728 4.593-4.148l1.915-7.95c.382-1.728.382-3.802-.383-5.53l-4.977-13.134c-.766-2.42-1.148-4.147-.766-7.258l1.532-6.913c1.531-5.53 5.36-8.295 11.102-8.295 6.508 0 8.422 2.765 6.89 7.95zM57.25 84l12.196-53.402h-5.74L64.784 26H82l-1.076 4.598h-6.098L62.63 84h-5.38zM39.6 84l5.075-51.28L32.712 84H28l13.412-57.646h7.976l-5.075 49.158L55.913 26h4.712L47.212 84H39.6z"/>
+                </g>
+            </svg>
+        </div>
+        <div class="col-12">
+            <p>Feedback? Bug? <a href="https://github.com/helloiamlukas/nts-favorites-extension/issues" rel="noopener" target="_blank">Report your issue here</a></p>
+            NTS Favorites Extension ⏤
+            <span style="font-family:'Lucida Console',Monaco,monospace; font-size: 90%">
+                 by
+                <a href="https://github.com/helloiamlukas" rel="noopener" target="_blank">github.com/helloiamlukas</a>
+            </span>
+        </div>
+    </div>
+</footer>
+<script src="favorites.js"></script>
+</body>
+</html>
