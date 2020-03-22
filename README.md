@@ -1,6 +1,7 @@
-# ![NTS Favorites Extension](nts-favorites-preview.gif)
-Browser extension to save your favorites NTS shows & episodes 🖤
-- [NTS | Don't Assume](https://www.nts.live/)
+# NTS Favorites Extension
+Browser extension to save your favorites [NTS shows & episodes](https://www.nts.live/) 🖤
+
+![NTS Favorites Extension](nts-favorites-cover.gif)
 
 ## Features
 
