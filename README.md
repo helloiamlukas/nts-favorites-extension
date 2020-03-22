@@ -1,5 +1,5 @@
 # NTS Favorites Extension
-Browser extension to save your favorites [NTS shows & episodes](https://www.nts.live/) 🖤
+Browser extension to save your favorite [NTS shows & episodes](https://www.nts.live/) 🖤
 
 ![NTS Favorites Extension](nts-favorites-cover.gif)
 
