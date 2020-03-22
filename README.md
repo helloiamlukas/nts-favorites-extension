@@ -9,13 +9,13 @@ Browser extension to save your favorite [NTS shows & episodes](https://www.nts.l
 
 - Works with Google Chrome
 - Save your favorite shows & episodes directly from the NTS website
+- Search your saved shows & episodes
 - Synchronize your favorites on multiple devices ([via your Google Account](https://support.google.com/chrome/answer/185277))
 
 ![NTS Favorites Extension](nts-favorites-preview.jpg)
 
 ### Upcoming Features
 
-- Search your favorites
 - Import & Export all saved shows/episodes
 - Firefox support
 
