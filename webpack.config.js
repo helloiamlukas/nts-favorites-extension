@@ -74,7 +74,7 @@ const config = {
       filename: '[name].css',
     }),
     new CopyPlugin([
-      { from: 'icons', to: 'icons', ignore: ['icon.xcf'] },
+      { from: 'icons', to: 'icons', ignore: ['.DS_Store'] },
       { from: 'options/options.html', to: 'options/options.html', transform: transformHtml },
       { from: 'favorites/favorites.html', to: 'favorites/favorites.html', transform: transformHtml },
       {
