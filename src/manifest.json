@@ -1,6 +1,6 @@
 {
   "name": "NTS Favorites",
-  "description": "Save your favorite NTS shows",
+  "description": "Save your favorite NTS shows & episodes",
   "version": null,
   "manifest_version": 2,
   "permissions": [
