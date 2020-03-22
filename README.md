@@ -1,4 +1,6 @@
 # NTS Favorites Extension
+![Chrome Web Store](https://img.shields.io/chrome-web-store/v/dlolfbeclhpomkpamfcfjfjefedpbifm?style=flat-square)
+
 Browser extension to save your favorite [NTS shows & episodes](https://www.nts.live/) 🖤
 
 ![NTS Favorites Extension](nts-favorites-cover.gif)
@@ -18,9 +20,9 @@ Browser extension to save your favorite [NTS shows & episodes](https://www.nts.l
 - Firefox support
 
 ## Installation
-### Google Web Store
+### Chrome Web Store
 You can install this extension through the Google Web Store.
-- [NTS Favorites - Chrome Web Store](https://chrome.google.com/webstore/detail/)
+- [NTS Favorites - Chrome Web Store](https://chrome.google.com/webstore/detail/nts-favorites/dlolfbeclhpomkpamfcfjfjefedpbifm)
 
 ## Development
 If you want to compile this extension by yourself or want to contribute, you have to clone it and install the depedencies
