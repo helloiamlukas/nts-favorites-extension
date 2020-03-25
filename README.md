@@ -1,22 +1,22 @@
-# NTS Favorites Extension
+# NTS Radio - Favorites Extension
 ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/dlolfbeclhpomkpamfcfjfjefedpbifm?style=flat-square)
 
-Browser extension to save your favorite [NTS shows & episodes](https://www.nts.live/) 🖤
+Browser extension to save your favorite [NTS Radio shows & episodes](https://www.nts.live/) 🖤
 
 ![NTS Favorites Extension](nts-favorites-cover.gif)
 
 ## Features
 
 - Works with Google Chrome
-- Save your favorite shows & episodes directly from the NTS website
+- Save your favorite shows & episodes directly from the NTS Radio website
 - Search your saved shows & episodes
 - Synchronize your favorites on multiple devices ([via your Google Account](https://support.google.com/chrome/answer/185277))
+- Import & Export all saved shows/episodes
 
 ![NTS Favorites Extension](nts-favorites-preview.jpg)
 
 ### Upcoming Features
 
-- Import & Export all saved shows/episodes
 - Firefox support
 
 ## Installation
