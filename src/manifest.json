@@ -3,7 +3,6 @@
   "short_name": "NTS Favorites",
   "description": "Save your favorite NTS Radio shows & episodes",
   "version": "0.3.0",
-  "default_locale": "en",
   "manifest_version": 2,
   "permissions": [
     "storage",
