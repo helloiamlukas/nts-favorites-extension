@@ -2,7 +2,7 @@
   "name": "NTS Radio - Favorites",
   "short_name": "NTS Favorites",
   "description": "Save your favorite NTS Radio shows & episodes",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "manifest_version": 2,
   "permissions": [
     "storage",
